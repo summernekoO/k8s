@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-apiserver:v1.23.5
+FROM asia.gcr.io/google-containers/kube-apiserver
